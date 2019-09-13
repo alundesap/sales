@@ -1,0 +1,8 @@
+{
+	"role": {
+		"name": "sales.db::analytics",
+		"schema_privileges": [{
+			"privileges": ["SELECT"]
+		}]
+	}
+}
